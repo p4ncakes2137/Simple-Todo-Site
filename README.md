@@ -80,7 +80,7 @@ To run this project locally, follow these steps:
 - **Sign up**: Create a new account by providing a username and password.
 - **Log in**: Use your credentials to log in and manage your to-do list.
 - **Add tasks**: Add new tasks to your to-do list.
-- **Update tasks**: Edit or mark tasks as completed.
+- **Update tasks**: mark tasks as completed.
 - **Delete tasks**: Remove tasks from your list.
 
 ## License
