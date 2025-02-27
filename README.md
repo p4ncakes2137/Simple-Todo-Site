@@ -1,4 +1,3 @@
-```markdown
 # To-Do List App
 
 A simple to-do list web application built with Node.js (Express) for the backend and SQLite for the database. It allows users to manage their tasks with authentication, including adding, updating, and deleting tasks.
@@ -91,4 +90,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contributing
 
 Feel free to fork the repository, open issues, or submit pull requests for any improvements or bug fixes!
-```
